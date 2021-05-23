@@ -1,4 +1,4 @@
-STATE/UT,YEAR,CRIME HEAD,Male 16-18 years,Female 16-18 years,Total 16-18 years,Male 18-30 years,Female 18-30 years,Total 18-30 years,Male 30-50 years,Female 30-50 years,Total 30-50 years,Male Above 50 years,Female Above 50 years,Total Above 50 years,Total Male,Total Female,Grand Total
+state_name,year,crime_head,Male 16-18 years,Female 16-18 years,Total 16-18 years,Male 18-30 years,Female 18-30 years,Total 18-30 years,Male 30-50 years,Female 30-50 years,Total 30-50 years,Male Above 50 years,Female Above 50 years,Total Above 50 years,Total Male,Total Female,Grand Total
 Andhra Pradesh,2001,Murder,1,0,1,688,21,709,1221,29,1250,249,10,259,2159,60,2219
 Andhra Pradesh,2001,Attempt To Commit Murder,0,0,0,38,0,38,71,0,71,12,0,12,121,0,121
 Andhra Pradesh,2001,C.H. Not Amounting To Murder,0,0,0,78,1,79,121,3,124,23,0,23,222,4,226

@@ -1,4 +1,4 @@
-state_name,is_state,year,gender,convicts,under_trial,detenues,others
+state_name,is_state,year,gender,religion,convicts,under_trial,detenues,others
 A & N Islands,0,2001,Female,Christian,0,0,0,0
 A & N Islands,0,2001,Female,Hindu,3,1,0,0
 A & N Islands,0,2001,Female,Muslim,0,0,0,0

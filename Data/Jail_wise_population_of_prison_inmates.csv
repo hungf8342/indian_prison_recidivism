@@ -1,4 +1,4 @@
-State_UT_name,Year,Jail_Type,Male Convicts,Female_Convicts,Total_Convicts,Male_Under_trial,Female_Under_trial,Total_Under_trial,Male_Detenues,Female_Detenues,Total_Detenues,Male_Others,Female_Others,Total_Others,Total_Male,Total_Female,Grand_Total
+state_name,year,Jail_Type,Male Convicts,Female_Convicts,Total_Convicts,Male_Under_trial,Female_Under_trial,Total_Under_trial,Male_Detenues,Female_Detenues,Total_Detenues,Male_Others,Female_Others,Total_Others,Total_Male,Total_Female,Grand_Total
 Andhra Pradesh,2001,Central Jail,3372,3,3375,2718,114,2832,4,0,4,22,0,22,6116,117,6233
 Andhra Pradesh,2001,District Jail,294,1,295,2379,136,2515,0,0,0,0,0,0,2673,137,2810
 Andhra Pradesh,2001,Sub_Jail,188,10,198,3263,151,3414,0,0,0,0,0,0,3451,161,3612
